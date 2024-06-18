@@ -22,8 +22,6 @@ Please address the following questions:
 2. Show with the help of visualization, **how median_income** and **median_house_values**  are related?
 
 
-
-
 3. Plot **latitude versus longitude** and explain your observations
 
 
@@ -32,3 +30,10 @@ Please address the following questions:
 
 
 5. Draw an appropriate plot to see the distribution of **Housing Median Age** and explain your observations.
+
+
+
+# :key: Dashboard:
+
+
+![Screen Shot 2024-06-18 at 12 22 28 PM](https://github.com/Sumit-Baviskar/California-Housing-Python-/assets/153518735/c21f993c-600b-466c-8b9a-89aa498905cc)
