@@ -46,7 +46,7 @@ This analysis seeks to address five key questions to guide business decisions:
 
 - **Total Bedrooms :** Total Number Of Rooms Present.
 
-- **Median Income :**Median Income Of Residant In Area
+- **Median Income :** Median Income Of Residant In Area
 
 - **Median House Value :** Median Value of House in Area(measured in Dollar($))
 
